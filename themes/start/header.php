@@ -49,7 +49,7 @@
       global $disable_nav;
       if($disable_nav == 0): ?> 
       <nav class="start_nav main-navigation">
-        <label for="menu_toggle" class="menu_toggle">Menu</label>
+        <label for="menu_toggle" class="menu_toggle">Menu for kphoo</label>
         <input type="checkbox" id="menu_toggle" />
         <?php
          $startwp_primary_menu = array('theme_location' => 'primary', 'container' => '', 'menu' => '', 'menu_class' => 'menu', 'menu_id' => '', 'walker' => new start_navigation
