@@ -63,10 +63,21 @@
 			<div class="site-info <?php echo copyright_notstretched(); ?>">
 				<div class="<?php echo copyright_stretched(); ?>">
 <<<<<<< HEAD
+<<<<<<< HEAD
 				<?php echo get_theme_mod( 'footer_copyright', 'Copyright &copy; 2019 | cook by khinyadanar' ); ?>
 =======
 				<?php echo get_theme_mod( 'footer_copyright', 'Copyright &copy; 2019 | cooed by khinyadanar' ); ?>
 >>>>>>> Kphoo
+=======
+KPhoo I love you mwamwa
+
+
+<<<<<<< HEAD
+				<?php echo get_theme_mod( 'footer_copyright', 'Copyright &copy; 2019 | Changed by shoon lei tun' ); ?>
+=======
+				<?php echo get_theme_mod( 'footer_copyright', 'Copyright &copy; 2019 | Powered by khinyadanar testing' ); ?>
+>>>>>>> 4721facf532b7a0e695fdb6cd158f92eb61f53d2
+>>>>>>> 68c5e17a6b6c47320b8f97e8c4c0ae78482ff837
 				</div>
 			</div><!-- .site-info -->
 		<?php do_action( 'swp_after_footer' );  ?>	
