@@ -65,7 +65,7 @@
 HEAD
 
 
-				<?php echo get_theme_mod( 'footer_copyright', 'Copyright &copy; 2019 | Powered by Shoon Lei Tun' ); ?>
+				<?php echo get_theme_mod( 'footer_copyright', 'Copyright &copy; 2019 | Changed by shoon lei tun' ); ?>
 				</div>
 			</div><!-- .site-info -->
 		<?php do_action( 'swp_after_footer' );  ?>	
