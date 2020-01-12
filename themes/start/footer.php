@@ -62,7 +62,10 @@
 		<?php do_action( 'swp_after_footer_widgets' );  ?>
 			<div class="site-info <?php echo copyright_notstretched(); ?>">
 				<div class="<?php echo copyright_stretched(); ?>">
-				<?php echo get_theme_mod( 'footer_copyright', 'Copyright &copy; 2019 | Powered by Shoon Lei Tun' ); ?>
+HEAD
+
+
+				<?php echo get_theme_mod( 'footer_copyright', 'Copyright &copy; 2019 | Powered by khinyadanar' ); ?>
 				</div>
 			</div><!-- .site-info -->
 		<?php do_action( 'swp_after_footer' );  ?>	
