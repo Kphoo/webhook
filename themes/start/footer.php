@@ -62,7 +62,11 @@
 		<?php do_action( 'swp_after_footer_widgets' );  ?>
 			<div class="site-info <?php echo copyright_notstretched(); ?>">
 				<div class="<?php echo copyright_stretched(); ?>">
+<<<<<<< HEAD
 				<?php echo get_theme_mod( 'footer_copyright', 'Copyright &copy; 2019 | cook by khinyadanar' ); ?>
+=======
+				<?php echo get_theme_mod( 'footer_copyright', 'Copyright &copy; 2019 | cooed by khinyadanar' ); ?>
+>>>>>>> Kphoo
 				</div>
 			</div><!-- .site-info -->
 		<?php do_action( 'swp_after_footer' );  ?>	
