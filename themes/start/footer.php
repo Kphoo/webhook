@@ -72,5 +72,6 @@
 </div><!-- #page -->
 
 <?php wp_footer(); ?>
+BLah Blah Blah
 </body>
 </html>
