@@ -64,12 +64,16 @@
 				<div class="<?php echo copyright_stretched(); ?>">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 				<?php echo get_theme_mod( 'footer_copyright', 'Copyright &copy; 2019 | cook by khinyadanar' ); ?>
 =======
 				<?php echo get_theme_mod( 'footer_copyright', 'Copyright &copy; 2019 | cooed by khinyadanar' ); ?>
 >>>>>>> Kphoo
 =======
 KPhoo I love you mwamwa
+=======
+Testing12
+>>>>>>> Thawe
 
 
 <<<<<<< HEAD
